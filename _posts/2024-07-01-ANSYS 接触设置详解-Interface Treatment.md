@@ -2,8 +2,8 @@
 title: 仿真技巧 \| ANSYS 接触设置详解-Interface Treatment
 date: 2024-07-01
 categories: [ansys]
-tag: [Workbench]
-comment: true
+tags: [Workbench]
+comments: true
 ---
 
 

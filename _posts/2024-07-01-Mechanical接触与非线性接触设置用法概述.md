@@ -1,8 +1,8 @@
 ---
-title： Mechanical接触与非线性接触设置用法概述
-date： 2024-07-01
+title: Mechanical接触与非线性接触设置用法概述
+date: 2024-07-01
 categories: [ansys]
-tag: [workbench]
+tags: [workbench]
 ---
 
 
